@@ -1,8 +1,9 @@
 OVERVIEW
-The To-Do List Application is a simple command-line interface (CLI) tool that allows users to manage their tasks. 
-Users can add tasks, view the list of tasks, mark tasks as complete, delete tasks, and quit the application.
+
+The To-Do List Application is a simple command-line interface (CLI) tool that allows users to manage their tasks. Users can add tasks, view the list of tasks, mark tasks as complete, delete tasks, and quit the application.
 
 FEATURES
+
 Add a Task: Allows users to add a new task with a title. The task is marked as "Incomplete" by default.
 View Tasks: Displays all tasks along with their titles and statuses (Incomplete/Complete).
 Mark a Task as Complete: Allows users to mark a specific task as complete.
