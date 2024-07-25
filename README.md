@@ -10,27 +10,22 @@ Delete a Task: Allows users to delete a specific task from the list.
 Quit the Application: Allows users to exit the application gracefully.
 
 USAGE
-Add a Task:
+1. Add a Task:
+Select option 1 from the main menu.
+Enter the task title when prompted.
 
-    Select option 1 from the main menu.
-    Enter the task title when prompted.
+2. View Tasks:
+Select option 2 from the main menu.
+The list of tasks with their statuses will be displayed.
 
-View Tasks:
+3.Mark a Task as Complete:
+Select option 3 from the main menu.
+Enter the task number you wish to mark as complete.
 
-    Select option 2 from the main menu.
-    The list of tasks with their statuses will be displayed.
+4. Delete a Task:
+Select option 4 from the main menu.
+Enter the task number you wish to delete.
 
-Mark a Task as Complete:
-
-    Select option 3 from the main menu.
-    Enter the task number you wish to mark as complete.
-
-Delete a Task:
-
-    Select option 4 from the main menu.
-    Enter the task number you wish to delete.
-
-Quit the Application:
-
-    Select option 5 from the main menu.
-    The application will exit.
+5. Quit the Application:
+Select option 5 from the main menu.
+The application will exit.
